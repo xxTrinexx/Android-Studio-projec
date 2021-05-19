@@ -28,3 +28,6 @@ M -> A to-do list / check list was made.
 S -> you are able to delete and add tasks directly in the application 
 C -> Several lists was not made. But could be added in the future.
 W -> The economic side of the projects. Was not made, because of the extend of work it would be, compared to the availeble hours.
+
+References:
+https://github.com/IJ-Apps/Grocery-List-App-ListViews-?fbclid=IwAR1-f4wBKnSjuG0TYfhYSTsURHzY0RMtpliWH_LHp_XYhjbE68o6iEseMzI
