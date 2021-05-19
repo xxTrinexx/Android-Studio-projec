@@ -14,6 +14,7 @@ S -> Should have: Important initiatives that are not vital, but add significant 
 C -> Could have: Nice to have initiatives that will have a small impact if left out
 W -> Will not have: initiatives that are not a priority for this specific time frame
 
+Before the app:
 M -> A to-do list / check list. to manage what to do, and how many packages needs to be send and if a quote is sent, ect.
 S -> Be able to delete and add tasks directly in the application
 C -> Several lists. So you can sepeate the quotes and packages.
