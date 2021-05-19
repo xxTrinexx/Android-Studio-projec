@@ -23,7 +23,7 @@ W -> The economic side of the projects (invoices and financial accounting)
 
 
 
-the app:
+The app:
 M -> A to-do list / check list was made.
 S -> you are able to delete and add tasks directly in the application 
 C -> Several lists was not made. But could be added in the future.
