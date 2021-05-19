@@ -18,3 +18,12 @@ M -> A to-do list / check list. to manage what to do, and how many packages need
 S -> Be able to delete and add tasks directly in the application
 C -> Several lists. So you can sepeate the quotes and packages.
 W -> The economic side of the projects (invoices and financial accounting)
+
+
+
+
+the app:
+M -> A to-do list / check list was made.
+S -> you are able to delete and add tasks directly in the application 
+C -> Several lists was not made. But could be added in the future.
+W -> The economic side of the projects. Was not made, because of the extend of work it would be, compared to the availeble hours.
