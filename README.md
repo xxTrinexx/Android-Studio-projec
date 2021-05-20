@@ -31,3 +31,6 @@ W -> The economic side of the projects. Was not made, because of the extend of w
 
 References:
 https://github.com/IJ-Apps/Grocery-List-App-ListViews-?fbclid=IwAR1-f4wBKnSjuG0TYfhYSTsURHzY0RMtpliWH_LHp_XYhjbE68o6iEseMzI
+
+youtube link:
+**https://youtu.be/361pICsYtMA**
